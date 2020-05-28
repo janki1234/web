@@ -9,5 +9,5 @@
 .body1 p{padding-top: 50px;margin: 20px;font-size: 48px;font-weight: bold;}
 .nav{padding: 40px;background-color: #000; height: 100px;}
 .nav p{font-weight: bold;font-size: 34px;text-align: center;color: white;}
-.courses{font-size: 35px, margin-top: 20px; background-color: #00f}
-.course{font-size: 25px; padding: 10px; background-color: #fff}
+.courses{font-size: 35px; margin-top: 20px; background-color: #00f; padding: 20px;}
+.course{font-size: 25px; padding: 10px; background-color: #fff; margin: 10px;}
